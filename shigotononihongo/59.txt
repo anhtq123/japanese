@@ -1,0 +1,21 @@
+$C$A： 売上データ処理のモジュールなんですが、単体テストのチェック、すべて終わりました。
+$C$B： ああ、そうですか。お疲れさまでした。予定どおりでしたね。
+$C$Even when you have completed your task, your job is not finished. Even in an environment in which it is known that the project management system has been completed, you must still report completion of the project orally to your superior if he is nearby.
+
+$C$A：　予定どおりでしたね。
+$C$B：　ええ、何とか。
+$C$A：　じゃあ、結合テスト担当の新山さんに連絡しますから、ソースコードはクリアケースにコミットしておいてください。 
+$C$"Commit" refers to submitting the latest changes of source code to a repository in a version control system. This is also called "check in"; the opposite is checkout, when other users do an update or checkout from the repository. Once a developer checks out from a file, no one else is allowed to change it. This is called "file locking." When the developer checks in and others can again access the file, the process is sometimes called "unlocking." 
+
+$C$A：　え、クリアケースって、何ですか。 
+$C$B：　うちで使っているバージュン管理システムです。 
+$C$When you want to ask the question politely, you should probably say, "Could you tell me what ClearCase is?" 
+
+$C$A：　うちで使っているバージュン管理システムです。 
+$C$B：　あ、CSVとかサブバージョンみたいなシステムですね。
+$C$You can rephrase a name that you are unfamiliar with by giving an example of one with which you are familiar. For example, if you hear, "Hidemaru is a text editor," you can rephrase by saying, "Oh, that's probably like MemoPad in Windows." 
+
+
+$C$A：　はい、わかりました。次はどのモジュールを作－りますか。 
+$C$B：　まず、分析統計処理モジュールに売に作っておいてください。このモジュールに売上帳票出力処理モジュールが依存していますので。  
+$C$The concept of b being dependent on a could be rephrased by saying that without a, b will not work. 

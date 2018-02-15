@@ -1,0 +1,18 @@
+単体テスト終了報告
+Reporting Completion of a Unit Test 
+Having overcome repeated difficulties, the project seems temporarily to have settled down a bit. Li-san has also completed her first module and is reporting to Osawa-san, but she isn't quite clear about the procedure for submitting source Code. 
+ 
+リー： 大沢さん、すみません。
+大沢： はい。
+リー： 売上データ処理のモジュールなんですが、単体テストのチェック、すべて終わりました。
+大沢 ：ああ、そうですか。お疲れさまでした。予定どおりでしたね。
+リー :　ええ、何とか。
+大沢 :　じゃあ、結合テスト担当の新山さんに連絡しますから、ソースコードはクリアケースにコミットしておいてください。 
+リー :　え、クリアケースって、何ですか。 
+大沢： うちで使っているバージュン管理システムです。 
+リー : あ、cvsとかサブバージョンみたいなシステムですね。
+大沢：　そうです。使い方は新山さんに聞いてください。 
+リー : はい、わかりました。次はどのモジュールを作－りますか。 
+大沢： まず、分析統計処理モジュールに売に作っておいてください。このモジュールに売上帳票出力処理モジュールが依存していますので  
+リー : わかりました。では、そお順番で作ります。
+大沢： よろしく。

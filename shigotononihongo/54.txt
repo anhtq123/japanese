@@ -1,0 +1,18 @@
+仕様変更
+Change Requests 
+Coding has finally begun in this project. But a problem seems to have arisen in the specification definition stage, causing no end of trouble. How will the team overcome this predicament? 
+
+井出： ラジュさん、ちょっといい？ 
+ラジュ： はい。 
+井出： 実は、また仕様が変更になりました。
+ラジュ： え、またですか。どんな変更ですか。
+井出： 従業員マスターの主キーのデータ桁数を一つ増やすんだそうです。  
+ラジュ： つまり、9桁にするということですね。でも、それでは従業員マスターを参照するすべてのモジュールに影響が出ますね。 
+井出： そうですね。 
+ラジュ： 単体テストだって、もうほとんど終わっていますし....。
+井出： 気持ちはわかります。 
+ラジュ： 納期は延びるのでしょうか。
+井出： いや、契約どおりです。 
+ラジュ： それはちょっと....。今だって毎日残業ですし.....。
+井出： 大変なのはわかいります。でも、やるしかないんです。人員は増やしますから、がんばってください。 
+ラジュ： わかりました....。

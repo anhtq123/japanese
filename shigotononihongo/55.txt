@@ -1,0 +1,33 @@
+$C$A： ラジュさん、ちょっといい？ 
+$C$B： はい。 
+$C$Similar expressions include, "more functions will be added," or "there was a request for conversion." 
+
+
+$C$B： どんな変更ですか。
+$C$A： 従業員マスターの主キーのデータ桁数を一つ増やすんだそうです。  
+$C$It would be ideal if the points to be revised were put into writing, but when the delivery date is pressing or when the change is minor, there are occasions like this when the request is only conveyed orally. 
+
+$C$A： 従業員マスターの主キーのデータ桁数を一つ増やすんだそうです。 
+$C$B： つまり、9桁にするということですね。
+$C$When the figures are to be changed, it is effective if you verify the digits after they have been increased. Similarly, if you are told that 15 items have been doubled, you should confirm with, "you mean 30, right?". In other words, convert multiples into actual numbers. 
+
+$C$B： でも、それでは従業員マスターを参照するすべてのモジュールに影響が出ますね。 
+$C$A： そうですね
+$C$Here there is concern it will become impossible to search from other modules that refer to the employee master file. 
+
+
+$C$B： 単体テストだって、もうほとんど終わっていますし....。
+$C$A： 気持ちはわかります。 
+$C$「～し」is followed by a clause that is expected to express dissatisfaction. The sentence is left incomplete as an indirect way of expressing unhappiness with the situation. 
+
+$C$B： 納期は延びるのでしょうか。
+$C$A： いや、契約どおりです。 
+$C$「いや」means 「いいえ」. It is usually used by men; for women, the word「いえ」is more polite. 
+
+$C$B： それはちょっと....。今だって毎日残業ですし.....。
+$C$A： 大変なのはわかいります。
+$C$If you simply express your unhappiness, you could be misinterpreted as being unwilling to cooperate. It is important to explain yourself to your listener in fairly concrete terms in such cases, telling him that you've had to do overtime every day or that you had to stay overnight again at the company yesterday, etc. 
+
+$C$A： 人員は増やしますから、がんばってください。 
+$C$B： わかりました....。
+$C$Here, Raj has been successful in winning a compromise for more help from Ide-san rather than receiving an extension on the deadline so he expresses his concord with 「わかりました」. Even if you feel somewhat dissatisfied with a solution, if you push your point too hard, the negotiations will break down. Sometimes you might even lose the initial concession so it is best to relent at an appropriate juncture. 

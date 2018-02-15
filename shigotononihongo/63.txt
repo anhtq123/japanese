@@ -1,0 +1,23 @@
+大沢： リーさん、進捗状況はどうですか。
+リー： えーっと、担当モジュール四つのうち、半分は終わっています。 
+The term, 「進捗」, refers to the progress of the work, and 「進捗状況」 refers to the status of the progress. The term, 「進捗度」 refers to a rough report on the amount of work already completed.
+
+
+大沢： そうでしたね。三つ目のモジュールはどうですか。
+リー： 全体のコーディングは終わったんですが、単体テストはまだまだです。
+The expression, 「そうでしたね」 is used when something the speaker has said reminds you of information seen or heard in the past. If you are hearing the information for the first time, use 「そうですか」
+
+大沢： 試験項目は、どのぐらい終わりましたか。
+リー： だいたい3割ぐらいです。
+A 「割」 is 10 percent so 「3割」 is 30 percent. In a progress report, don't use subjective words such as 「少し」(a little),「だいたい」(somewhat), and 「ほとんど」(mostly), but use more objective ones, such as 「割」 or percent. 
+
+大沢： じゃ、実装段階は予定どおりに終われそうですね。
+リー： そうですねえ。今のところ大きなバグも出ていないので、何とか問に合うと思います。
+Implementation 「実装」 is the phase when programmers are actually writing code to build the system. This phase comes after planning and before testing. Words such as 「何とか」 (somehow) are often used with 「間に合う」(make it on time), as well as potential verb forms such as 「終われる」(be able to finish), implying that the project is possible to finish, but it will not be easy. Further, this 「そうですねえ」 does not mean "yes, that's right," but as with the ambiguous interjection, 「えーと」, is used when thinking about how to respond. 
+
+大沢： いいですね。その調子でがんばってください。
+• The expression, 「その調子で」 means keep up this great pace. It would be best to respond with, "all right, thank you," although I have omitted this response from the text here. 
+
+大沢： 何か困っていることはありますか。
+リー： 実はエクリプスに新しいプラグイン〒を入れたら、時々落ちるようになってしまいました。こういう状況が続くようでしたら、外してみます。 
+▪ A system crashes (「落ちる」) when the system goes down against the user's will or there is an ABEND in the application. Conversely, the transitive verb, 「落とす」, is used when describing a shutdown of the system or turning off of the system's power, actions that are performed intentionally by the user. 
