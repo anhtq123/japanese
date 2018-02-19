@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Broadcast Message</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <div class="container" ng-app="myapp">
+        <div ng-controller="ACtrl">
+            <label>A Controller:</label>
+            <div class="form-group">
+                <label for="broadcastMessage">Input message</label>
+                <input type="text" class="form-control" id="broadcastMessage" placeholder="Enter your message" ng-model="message">
+                <br />
+                <button class="btn btn-primary" ng-click="notify()">Notify</button>
+            </div>
+            <!-- Result:
+            <div>{{message}}</div> -->
+        </div>
+        <div ng-controller="BCtrl">
+            <label>B Controller:</label>
+            <div>{{messageb}}</div>
+        </div>
+        <div ng-controller="CCtrl">
+            <label>C Controller:</label>
+            <div>{{messagec}}</div>
+        </div>
+    </div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+<script src="script.js"></script>
+
+</html>
